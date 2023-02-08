@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-starts-86aa6": {
+      "hosting": {
+        "my-first-project": [
+          "fir-starts-86aa6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-starts-86aa6"
+  }
+}
